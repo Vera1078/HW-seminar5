@@ -31,4 +31,4 @@ void SumOfElements (int[] array)
 Console.WriteLine($"Сумма элементов нечетных позиций = {sum}");
 }
 
-SumOfElements(RandomArray(20));
+SumOfElements(RandomArray(10));
